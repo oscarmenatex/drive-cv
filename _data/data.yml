@@ -55,10 +55,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Junior Driver with Dasher experience and solid driving and
-      customer service skills. Committed to punctual delivery and 
-      customer satisfaction. I seek to contribute with efficiency and
-      professionalism to your delivery team.
+      Junior Driver with experience in deliveries and a history of safe 
+      and efficient driving. Passionate about providing exceptional
+      customer service and meeting challenges effectively in dynamic
+      environments.
 
 education:
     title: Education
@@ -106,7 +106,7 @@ certifications:
         - name: NSC Defensive Driving Geico Course
           start: 2023
           end: 2023
-          organization: National Safety Council (1-800-775-1484)
+          organization: National Safety Council
           credentialid: 1886095
           credentialurl: www.safetyserve.com
           credentialname: 294EACE3A7‐1658
@@ -117,6 +117,20 @@ certifications:
             Adopting defensive driver techniques, like maintaining a
             safe distance between cars or limiting the force of impact,
             could help make the roads a safer place.
+           
+        - name: Class E Driver's License
+          start: 2023
+          end: 2023
+          organization: FLHSMV
+          credentialid: C655-640-90-218-0
+          credentialurl: https://mydmvportal.flhsmv.gov/home/en/publicweb/dlcheck/
+          credentialname: Class E
+          details: |
+             Any non-commercial motor vehicles with Gross Vehicle Weight
+             Rating (GVWR) less than 26,001 pounds, including passenger
+             cars, 15 passenger vans including the driver, trucks or
+             recreational vehicles and two or three wheel motor vehicles
+             50 cc or less, such as mopeds or small scooters.
 
 projects:
     title: Projects
@@ -172,7 +186,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
-        link: "#"
+        link: ""
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
@@ -188,15 +202,28 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Auutos Ligeros
-        level: 98%
-
-      - name: Trailers
+ 
+    toolset: 
+      - name: Experience in food and product delivery
+        level: 100%
+      
+      - name: Knowledge of GPS navigation applications
+        level: 100%
+        
+      - name: Ability to plan efficient routes
+        level: 95%
+        
+      - name: Communication and customer service skills
         level: 50%
-
-      - name: Truck
-        level: 25%
+        
+      - name : Ability to remain calm in stressful situations
+        level: 70%
+       
+      - name: Ability to solve problems in real time
+        level: 90%
+        
+      - name: Awareness of road safety and regulatory compliance
+        level: 100%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
