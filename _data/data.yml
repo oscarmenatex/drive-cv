@@ -43,7 +43,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Explore new driving routes..
+        - item: Explore new driving routes.
           link:
 
         - item: Automotive technology.
@@ -90,11 +90,25 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Deliver
+      - role: Driver
+        time: 2023 - Present
+        company: Tampa Delivery Service LLC
+        details: |
+           Delivery Associate - Amazon
+           - Collaborated with the team to optimize routes and coordinate deliveries to improve efficiency and reduce delivery times.
+           - Experience in safely driving 26-foot long Vans.
+           - Responsible for the timely and safe delivery of packages to residential and commercial customers within a designated area.
+           - I faced unexpected challenges, such as inclement weather and heavy traffic, staying calm and adapting to meet deadlines effectively.
+           - Quick and efficient resolution of minor mechanical problems during deliveries, guaranteeing vehicle integrity and continuity of operation.
+           - I used navigation and delivery tracking applications to optimize routes and minimize delays.
+           - Maintained a safe driving record and zero accidents during my time as a Delivery Associate.
+
+      - role: Driver
         time: 2023 - Present
         company: DoorDash
         details: |
            Dasher - On Demand Delivery Platform
+           - Experience in safely driving a 4-door Sedan.
            - Made efficient and punctual deliveries, handling a variety of urban and suburban routes.
            - Maintained constant communication with customers to ensure a positive delivery experience.
            - I used navigation and delivery tracking applications to optimize routes and minimize delays.
@@ -105,7 +119,7 @@ certifications:
       list:
         - name: NSC Defensive Driving Geico Course
           start: 2023
-          end: 2023
+          end: 2025
           organization: National Safety Council
           credentialid: 1886095
           credentialurl: www.safetyserve.com
@@ -120,7 +134,7 @@ certifications:
            
         - name: Class E Driver's License
           start: 2023
-          end: 2023
+          end: 2025
           organization: FLHSMV
           credentialid: C655-640-90-218-0
           credentialurl: https://mydmvportal.flhsmv.gov/home/en/publicweb/dlcheck/
@@ -204,26 +218,32 @@ skills:
     title: Skills &amp; Proficiency
  
     toolset: 
-      - name: Experience in food and product delivery
+      - name: Teamwork
+        level: 100%
+        
+      - name: Road safety and regulatory compliance
         level: 100%
       
-      - name: Knowledge of GPS navigation applications
+      - name: GPS navigation applications
+        level: 100%
+         
+      - name: Food and product delivery
         level: 100%
         
-      - name: Ability to plan efficient routes
+      - name: Plan efficient routes
         level: 95%
         
-      - name: Communication and customer service skills
+      - name: Problem solving  in real time
+        level: 90%
+
+      - name : Remain calm in stressful situations
+        level: 70%
+        
+      - name: Communication and customer service
         level: 50%
         
-      - name : Ability to remain calm in stressful situations
-        level: 70%
-       
-      - name: Ability to solve problems in real time
-        level: 90%
-        
-      - name: Awareness of road safety and regulatory compliance
-        level: 100%
+      - name: Problem solving with mechanical problems in the vehicle
+        level: 20%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
